@@ -1,8 +1,10 @@
-
-.even {
+body {
+  margin: 0;
   background-color: #ffcc00;
+  height: 100vh;
 }
 
-.odd {
+.theme-chilli-orange {
   background-color: #ff9900;
 }
+

@@ -5,18 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>:)</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,900" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
 </head>
-<body id="theme">
+<body id="mood-theme">
 
-  <h1 class="mood">;)</h1>
-  <form action="">
-    <label for="choose-mood">Choose your mood</label>
-    <select name="choose-mood" id="choose-mood">
+  <h1 class="mood__face">:)</h1>
+  <form class="mood__controls" action="">
+    <label class="visually-hidden" for="choose-mood">Choose your mood</label>
+    <select class="mood__control mood__control--choose" name="choose-mood" id="choose-mood">
       <option value=":)">:)</option>
       <option value=":(">:(</option>
     </select>
-    <button id="btn-update" type="submit">Update</button>
+    <button class="mood__control mood__control--update" id="btn-update" type="submit">Update</button>
   </form>
   <script src="scripts/main.js"></script>
 </body>

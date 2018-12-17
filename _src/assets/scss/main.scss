@@ -33,7 +33,7 @@ body {
   display: flex;
 }
 
-@media all and (max-width: 768px) and (orientation: landscape) { 
+@media all and (max-width: 768px) and (orientation: landscape) {
   .mood__controls {
     bottom: 10vh;
   }

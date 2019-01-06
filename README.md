@@ -1,6 +1,6 @@
 # Mood app
 
-A simple application, build with vanilla javascript, to select your mood: happy :) or sad :(
+A simple application, built with vanilla javascript, to select your mood: happy :) or sad :(
 
 ## Set up
 

@@ -8,7 +8,7 @@ You'll need [Node.js](https://nodejs.org/) and [Gulp](https://gulpjs.com) on you
 
 1. Clone the repo
 2. Run `$ npm install --global gulp-cli` to install gulp-cli
-3. Run `$ npm install` to install th dependencies
+3. Run `$ npm install` to install the dependencies
 
 ## Up and running
 
